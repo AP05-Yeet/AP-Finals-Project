@@ -1,0 +1,21 @@
+		rename JFRAME name
+		Size 1200
+		Change game title name
+		Make the boxes bigger
+		add hunger and energy attributes
+		Make external health variable
+		remake all option and positions
+		remove monsterHP (replace with things like hunger and stuff)
+		remove the health if statement and make health method
+		remove monster hp if statement and make methods for it
+
+
+		remove hunger and silverring int establishers
+
+add day noon night loops (make it after every action a variable increases by 1 and whenever it can be devided by 3 it will increase day counter and make it a day again)
+
+fix day incrimentals
+
+request for more content
+
+Hunger and energy limiter
